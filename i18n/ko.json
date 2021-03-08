@@ -20,14 +20,14 @@
         "sortDescending": ": 내림차순 정렬"
     },
     "buttons": {
-        "copyKeys": "ctrl키 나 u2318 + C키로 테이블 데이터를 시스텝 복사판에서 복사하고 취소하려면 이 메시지를 클릭하거나 ESC키를 누르면됩니다. to copy the table data to your system clipboard. To cancel, click this message or press escape.",
+        "copyKeys": "ctrl키 나 u2318 + C키로 테이블 데이터를 시스템 클립보드에서 복사하고 취소하려면 이 메시지를 클릭하거나 ESC키를 누르면 됩니다.",
         "copySuccess": {
-            "_": "%d행을 복사판에서 복사됨",
-            "1": "1행을 복사판에서 복사됨"
+            "_": "%d행을 클립보드에 복사함",
+            "1": "1행을 클립보드에 복사함"
         },
-        "copyTitle": "복사판에서 복사",
+        "copyTitle": "클립보드에서 복사",
         "csv": "CSV",
-        "excel": "엑설",
+        "excel": "엑셀",
         "pageLength": {
             "-1": "모든 행 보기",
             "1": "1행 보기",
@@ -49,7 +49,7 @@
         "clearAll": "모두 지우기",
         "condition": "조건",
         "data": "데이터",
-        "deleteTitle": "필터 규칙을 삭제",
+        "deleteTitle": "필터 규칙 삭제",
         "logicAnd": "And",
         "logicOr": "Or",
         "title": {
